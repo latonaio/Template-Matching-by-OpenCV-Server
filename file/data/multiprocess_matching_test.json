@@ -1,0 +1,13 @@
+[{"template_id":1, "vehicle_id":4, "json_path":"/home/latona/tartarus/Data/template-matching-by-opencv-set-template-json/dist/json/trim2_NX_CONV_\u4e2d\u5f8c\u65b91-1.json"},
+ {"template_id":2, "vehicle_id":4, "json_path":"/home/latona/tartarus/Data/template-matching-by-opencv-set-template-json/dist/json/trim2_NX_CONV_\u4e2d\u5f8c\u65b91-2.json"},
+ {"template_id":3, "vehicle_id":4, "json_path":"/home/latona/tartarus/Data/template-matching-by-opencv-set-template-json/dist/json/trim2_NX_CONV_\u5f8c\u65b91-1.json"},
+ {"template_id":4, "vehicle_id":4, "json_path":"/home/latona/tartarus/Data/template-matching-by-opencv-set-template-json/dist/json/trim2_NX_CONV_\u5f8c\u65b91-2.json"},
+ {"template_id":5, "vehicle_id":4, "json_path":"/home/latona/tartarus/Data/template-matching-by-opencv-set-template-json/dist/json/trim2_NX_CONV_\u5f8c\u65b92-1.json"},
+ {"template_id":6, "vehicle_id":4, "json_path":"/home/latona/tartarus/Data/template-matching-by-opencv-set-template-json/dist/json/trim2_NX_CONV_\u5f8c\u65b92-2.json"},
+ {"template_id":7, "vehicle_id":5, "json_path":"/home/latona/tartarus/Data/template-matching-by-opencv-set-template-json/dist/json/trim2_NX_HV_\u4e2d\u5f8c\u65b91-1.json"},
+ {"template_id":8, "vehicle_id":5, "json_path":"/home/latona/tartarus/Data/template-matching-by-opencv-set-template-json/dist/json/trim2_NX_HV_\u4e2d\u5f8c\u65b91-2.json"},
+ {"template_id":9, "vehicle_id":5, "json_path":"/home/latona/tartarus/Data/template-matching-by-opencv-set-template-json/dist/json/trim2_NX_HV_\u4e2d\u5f8c\u65b92-2.json"},
+ {"template_id":10, "vehicle_id":5, "json_path":"/home/latona/tartarus/Data/template-matching-by-opencv-set-template-json/dist/json/trim2_NX_HV_\u5f8c\u65b91-1.json"},
+ {"template_id":11, "vehicle_id":5, "json_path":"/home/latona/tartarus/Data/template-matching-by-opencv-set-template-json/dist/json/trim2_NX_HV_\u5f8c\u65b91-2.json"},
+ {"template_id":12, "vehicle_id":5, "json_path":"/home/latona/tartarus/Data/template-matching-by-opencv-set-template-json/dist/json/trim2_NX_HV_\u5f8c\u65b92-1.json"},
+ {"template_id":13, "vehicle_id":5, "json_path":"/home/latona/tartarus/Data/template-matching-by-opencv-set-template-json/dist/json/trim2_NX_HV_\u5f8c\u65b92-2.json"}]
